@@ -1,0 +1,4 @@
+Al poder prestar la máquina en su tiempo de ocio se puede crear un sistema distribuido P2P
+la cual distribuya el procesamiento de datos (normalmente el procesamiento de datos médicos
+es bastante intensivo) entre las varias máquinas que se tengan.
+Este modelo se ve ejemplificado por SETI@home.
